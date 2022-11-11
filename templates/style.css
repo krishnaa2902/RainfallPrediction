@@ -1,0 +1,36 @@
+
+  .form-container {
+    width:500;
+    margin:25%;
+    margin-bottom:30px;
+    margin-top:30px;
+    background-color:#dee7ff;
+    box-shadow: 0 3px 10px #413e65;
+    padding:30px;
+    border-radius:10px;
+  }
+
+body {
+            
+    background-color:rgb(178, 189, 255);
+}
+
+.card {
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+margin-top:0%;
+margin-left: 33%;
+margin-right:33%;
+margin-bottom:100px;
+transition: 0.3s;
+border-radius: 15px; /* 5px rounded corners */
+align-items: center;
+padding: 20px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+box-shadow: 0 10px 20px 0 rgba(13, 0, 58, 0.2);
+}  
+.head-line {
+    font-size:100px;
+}
